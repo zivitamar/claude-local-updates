@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "product": "Claude Local",
+  "version": "1.0.0",
+  "build": "20261128-0516",
+  "publishedAt": "2026-11-28T05:16:42.685Z",
+  "notes": "Work manager — release freeze: 15 min before the deadline the manager is told to stop changes, keep the deliverable green and leave no half work (exam gpt #4: a worker was mid-edit at the deadline, 1/43 tests red); server 65/65, logic 32,166",
+  "app": {
+    "file": "claude-local-app-20261128-0516.zip",
+    "sha256": "d094465524b6e4dcd497ec677d41c1b2d23b7642213087f96dbcabdd4794c698",
+    "size": 15376533
+  },
+  "apk": {
+    "file": "claude-local-20261127-1307.apk",
+    "sha256": "17c088930dfdff9ed5fb998fb0e42cd916739b20a25d3530df53277046a15fa3",
+    "size": 10663438,
+    "versionCode": 475987,
+    "versionName": "1.0.0+20261127-1307"
+  },
+  "sig": "fjSGd9qemrG9HNXBGeV+bF76ojWuaGz/zlVvgwUGFnlaJEMeeUUxLVmhjf73tPoUWWX5Al44hcM55q/n0a6dCA=="
+}
